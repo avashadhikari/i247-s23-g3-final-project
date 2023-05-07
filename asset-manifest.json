@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/i247-s23-g3-final-project/static/css/main.b19ff89d.css",
-    "main.js": "/i247-s23-g3-final-project/static/js/main.ec17e4d0.js",
+    "main.css": "/i247-s23-g3-final-project/static/css/main.3edb1035.css",
+    "main.js": "/i247-s23-g3-final-project/static/js/main.6235653b.js",
     "static/js/787.ac34fb11.chunk.js": "/i247-s23-g3-final-project/static/js/787.ac34fb11.chunk.js",
     "static/media/logo.png": "/i247-s23-g3-final-project/static/media/logo.37c97c7756b1662331c7.png",
     "static/media/workforce-spending.png": "/i247-s23-g3-final-project/static/media/workforce-spending.e112eb4504e85f68b568.png",
@@ -32,12 +32,12 @@
     "static/media/roboto-latin-900.woff2": "/i247-s23-g3-final-project/static/media/roboto-latin-900.870c8c1486f76054301a.woff2",
     "static/media/from-to.png": "/i247-s23-g3-final-project/static/media/from-to.894a10508a434a0367ba.png",
     "index.html": "/i247-s23-g3-final-project/index.html",
-    "main.b19ff89d.css.map": "/i247-s23-g3-final-project/static/css/main.b19ff89d.css.map",
-    "main.ec17e4d0.js.map": "/i247-s23-g3-final-project/static/js/main.ec17e4d0.js.map",
+    "main.3edb1035.css.map": "/i247-s23-g3-final-project/static/css/main.3edb1035.css.map",
+    "main.6235653b.js.map": "/i247-s23-g3-final-project/static/js/main.6235653b.js.map",
     "787.ac34fb11.chunk.js.map": "/i247-s23-g3-final-project/static/js/787.ac34fb11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b19ff89d.css",
-    "static/js/main.ec17e4d0.js"
+    "static/css/main.3edb1035.css",
+    "static/js/main.6235653b.js"
   ]
 }
