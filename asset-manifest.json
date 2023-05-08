@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/i247-s23-g3-final-project/static/css/main.661a0943.css",
-    "main.js": "/i247-s23-g3-final-project/static/js/main.8139457c.js",
+    "main.js": "/i247-s23-g3-final-project/static/js/main.b5f9b233.js",
     "static/js/787.ac34fb11.chunk.js": "/i247-s23-g3-final-project/static/js/787.ac34fb11.chunk.js",
+    "static/media/timeline.jpg": "/i247-s23-g3-final-project/static/media/timeline.7245277bc5c6167da43e.jpg",
     "static/media/marriage-age.svg": "/i247-s23-g3-final-project/static/media/marriage-age.6ce962bf7e982fbf333fec69c2665077.svg",
     "static/media/logo.png": "/i247-s23-g3-final-project/static/media/logo.37c97c7756b1662331c7.png",
     "static/media/workforce-spending.png": "/i247-s23-g3-final-project/static/media/workforce-spending.e112eb4504e85f68b568.png",
@@ -34,11 +35,11 @@
     "static/media/from-to.png": "/i247-s23-g3-final-project/static/media/from-to.894a10508a434a0367ba.png",
     "index.html": "/i247-s23-g3-final-project/index.html",
     "main.661a0943.css.map": "/i247-s23-g3-final-project/static/css/main.661a0943.css.map",
-    "main.8139457c.js.map": "/i247-s23-g3-final-project/static/js/main.8139457c.js.map",
+    "main.b5f9b233.js.map": "/i247-s23-g3-final-project/static/js/main.b5f9b233.js.map",
     "787.ac34fb11.chunk.js.map": "/i247-s23-g3-final-project/static/js/787.ac34fb11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.661a0943.css",
-    "static/js/main.8139457c.js"
+    "static/js/main.b5f9b233.js"
   ]
 }
