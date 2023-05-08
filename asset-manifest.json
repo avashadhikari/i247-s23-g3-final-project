@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/i247-s23-g3-final-project/static/css/main.661a0943.css",
-    "main.js": "/i247-s23-g3-final-project/static/js/main.2dcf2a36.js",
+    "main.js": "/i247-s23-g3-final-project/static/js/main.cffc6180.js",
     "static/js/787.ac34fb11.chunk.js": "/i247-s23-g3-final-project/static/js/787.ac34fb11.chunk.js",
-    "static/media/consumerism.svg": "/i247-s23-g3-final-project/static/media/consumerism.c933884723436f3cfc2061c5c2f01244.svg",
+    "static/media/consumerism.svg": "/i247-s23-g3-final-project/static/media/consumerism.54a6423a9e87fa985d54a228677bf391.svg",
     "static/media/takeaways.svg": "/i247-s23-g3-final-project/static/media/takeaways.dcd30e78b98a61827055cbed2cd30099.svg",
     "static/media/timeline.jpg": "/i247-s23-g3-final-project/static/media/timeline.7245277bc5c6167da43e.jpg",
     "static/media/marriage-age.svg": "/i247-s23-g3-final-project/static/media/marriage-age.6ce962bf7e982fbf333fec69c2665077.svg",
@@ -37,11 +37,11 @@
     "static/media/from-to.png": "/i247-s23-g3-final-project/static/media/from-to.894a10508a434a0367ba.png",
     "index.html": "/i247-s23-g3-final-project/index.html",
     "main.661a0943.css.map": "/i247-s23-g3-final-project/static/css/main.661a0943.css.map",
-    "main.2dcf2a36.js.map": "/i247-s23-g3-final-project/static/js/main.2dcf2a36.js.map",
+    "main.cffc6180.js.map": "/i247-s23-g3-final-project/static/js/main.cffc6180.js.map",
     "787.ac34fb11.chunk.js.map": "/i247-s23-g3-final-project/static/js/787.ac34fb11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.661a0943.css",
-    "static/js/main.2dcf2a36.js"
+    "static/js/main.cffc6180.js"
   ]
 }
